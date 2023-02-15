@@ -171,7 +171,7 @@ public class Board {
 		}
 	}
 				
-	// func to get the positions where the AI can place its symbol to win/block a move.
+	// func to get the positions where the AI can place its symbol to win/block a move ;
 	public void smartPos(char sym){
 					
 		// default vaule (not 0,0 since it can be an actual case)
